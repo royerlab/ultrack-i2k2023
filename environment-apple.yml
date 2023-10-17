@@ -1,0 +1,19 @@
+name: ultrack-i2k
+channels:
+  - gurobi
+  - conda-forge
+  - defaults
+dependencies:
+  - cellpose
+  - coin-or-cbc
+  - gurobi
+  - jupyter
+  - nodejs
+  - pip
+  - pyqt
+  - stackview
+  - pip:
+    - git+https://github.com/higra/Higra
+    - git+https://github.com/Janelia-Trackathon-2023/traccuracy
+    - napari
+    - ultrack
