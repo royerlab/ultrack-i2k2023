@@ -168,3 +168,4 @@ cython_debug/
 *.zip
 metadata.toml
 Fluo-C2DL-Huh7*
+res_track.txt
