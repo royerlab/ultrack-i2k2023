@@ -1,4 +1,4 @@
-name: ultrack-i2k
+name: ultrack-i2k2023
 channels:
   - gurobi
   - conda-forge
